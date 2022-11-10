@@ -1,2 +1,6 @@
-# Tarifka
- Tarifka
+![image](https://user-images.githubusercontent.com/109723263/201178606-1c01bc99-0c17-4236-be0c-bf9d3995939d.png) 
+![image](https://user-images.githubusercontent.com/109723263/201178529-99d3b4ae-1159-44e2-9345-23c7b3472205.png)
+![image](https://user-images.githubusercontent.com/109723263/201178368-c1ef657f-b7ef-4983-845a-93a1064ced05.png)
+![image](https://user-images.githubusercontent.com/109723263/201179197-854f5cb2-83e0-4466-8f6d-943f97b1f5ef.png)
+![image](https://user-images.githubusercontent.com/109723263/201179319-2eb59d7b-f38b-4006-9aeb-fe11d1816a2d.png)
+![image](https://user-images.githubusercontent.com/109723263/201178724-57ea223e-54be-4a75-bfc7-30f87312c87d.png)
